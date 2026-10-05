@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "nombre": "Audífonos Bluetooth",
+    "precio": 25990,
+    "precioOferta": 19990,
+    "descripcion": "Sonido envolvente, cancelación de ruido y 20 horas de batería.",
+    "categoria": "electronica",
+    "imagen": "https://placehold.co/300x200?text=Audifonos"
+  },
+  {
+    "id": 2,
+    "nombre": "Smartwatch Deportivo",
+    "precio": 39990,
+    "precioOferta": 32990,
+    "descripcion": "Monitor de ritmo cardíaco, GPS y resistencia al agua.",
+    "categoria": "electronica",
+    "imagen": "https://placehold.co/300x200?text=Smartwatch"
+  },
+  {
+    "id": 3,
+    "nombre": "Polera Algodón",
+    "precio": 12990,
+    "precioOferta": 9990,
+    "descripcion": "100% algodón, corte regular y tela suave al tacto.",
+    "categoria": "ropa",
+    "imagen": "https://placehold.co/300x200?text=Polera"
+  },
+  {
+    "id": 4,
+    "nombre": "Chaqueta Deportiva",
+    "precio": 34990,
+    "precioOferta": 27990,
+    "descripcion": "Liviana, cortaviento y con bolsillos con cierre.",
+    "categoria": "ropa",
+    "imagen": "https://placehold.co/300x200?text=Chaqueta"
+  },
+  {
+    "id": 5,
+    "nombre": "Mouse Inalámbrico",
+    "precio": 8990,
+    "precioOferta": 6990,
+    "descripcion": "Conexión 2.4 GHz, diseño ergonómico y bajo consumo.",
+    "categoria": "electronica",
+    "imagen": "https://placehold.co/300x200?text=Mouse"
+  },
+  {
+    "id": 6,
+    "nombre": "Jeans Slim Fit",
+    "precio": 22990,
+    "precioOferta": 17990,
+    "descripcion": "Mezclilla elasticada, calce ajustado y cinco bolsillos.",
+    "categoria": "ropa",
+    "imagen": "https://placehold.co/300x200?text=Jeans"
+  }
+]
