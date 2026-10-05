@@ -177,6 +177,12 @@ Abrir en el navegador: `http://localhost:5173/tiendagz-react/`
 ### 9. Error al cargar el catálogo
 ![Error](evidencias/09-error.png)
 
+### 10. Sitio publicado en GitHub Pages
+![Sitio publicado](evidencias/10-sitio-publicado.png)
+
+### 11. Configuración de GitHub Pages (rama gh-pages)
+![GitHub Pages](evidencias/11-gh-pages.png)
+
 ---
 
 **Autor:** Felipe Cabrera — Analista Programador, Duoc UC
